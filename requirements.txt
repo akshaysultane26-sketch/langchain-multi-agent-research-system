@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+duckduckgo-search
+ddgs
+beautifulsoup4
+requests
+python-dotenv
+streamlit 
+rich>=13.7.0
